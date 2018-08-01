@@ -1,0 +1,19 @@
+bloc: 6f5902ac237024bdd0c176cb93063dc4
+precedent: 0
+createur: @teriiehina
+date: 2018-07-31
+contenu: préparer la présentation sur la blockchain
+---
+
+bloc: 602a2ed65b0b09f631da049d7ae3de43
+precedent: 6f5902ac237024bdd0c176cb93063dc4
+createur: @teriiehina
+date: 2018-07-31
+contenu: https://devops.pf
+---
+
+block: 6f5902ac237024bdd0c176cb93063dc4
+précédent: 602a2ed65b0b09f631da049d7ae3de43
+createur: @teriiehina
+date: 2018-07-31
+contenu: troller @sitle, @whale et @fab
